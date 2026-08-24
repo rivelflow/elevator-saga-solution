@@ -8,8 +8,8 @@ My final solution to the Elevator Saga game, as featured in my video.
 
 ## About
 
-Elevator Saga is a JavaScript game where you write code to control
-a group of elevators and try to transport passengers as efficiently
+Elevator Saga is a game where you write JavaScript code to control
+elevators and try to transport passengers as efficiently
 as possible.
 
 This repository contains the final solution I developed during the
