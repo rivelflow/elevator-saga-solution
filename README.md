@@ -4,7 +4,7 @@ My final solution to the Elevator Saga game, as featured in my video.
 
 ## Video
 
-[Watch the video on YouTube](VIDEO_LINK)
+[Watch the video on YouTube](https://youtu.be/yCh_G051S4U)
 
 ## About
 
